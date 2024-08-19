@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Generador de Markdown
 
-## Getting Started
+## Descripción
 
-First, run the development server:
+Este proyecto es un generador de Markdown que permite crear contenido estructurado en formato Markdown mediante un asistente interactivo. Incluye funcionalidades para gestionar títulos, secciones, subsecciones, código y archivos de imagen.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Versión
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Versión**: `1.0.0`
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Tiempo de desarrollo**: 2 horas.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Autor
 
-## Learn More
+**Autor**: [Tu Nombre]
 
-To learn more about Next.js, take a look at the following resources:
+## Funcionalidades
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Título del Proyecto**: Introduce un título para el proyecto.
+- **Secciones**: Añade y gestiona secciones del proyecto.
+- **Subsecciones**: Añade subsecciones dentro de cada sección.
+- **Código**: Incluye fragmentos de código en JavaScript.
+- **Imagen**: Sube y gestiona imágenes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Cómo Usar
 
-## Deploy on Vercel
+1. **Instalación**: Clona el repositorio y ejecuta `npm install` para instalar las dependencias.
+2. **Ejecución**: Usa `npm run dev` para iniciar el proyecto en modo de desarrollo.
+3. **Interacción**: Utiliza la interfaz para agregar títulos, secciones, subsecciones, código y cargar imágenes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contribuciones
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Las contribuciones son bienvenidas. Por favor, abre un problema o una solicitud de extracción para cualquier cambio o mejora.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
