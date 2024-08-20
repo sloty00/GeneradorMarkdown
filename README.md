@@ -19,7 +19,7 @@ Este proyecto es un generador de Markdown que permite crear contenido estructura
 - **Título del Proyecto**: Introduce un título para el proyecto.
 - **Secciones**: Añade y gestiona secciones del proyecto.
 - **Subsecciones**: Añade subsecciones dentro de cada sección.
-- **Código**: Incluye fragmentos de código en JavaScript.
+- **Código**: Incluye fragmentos de código.
 - **Imagen**: Sube y gestiona imágenes.
 
 ## Cómo Usar
