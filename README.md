@@ -12,7 +12,7 @@ Este proyecto es un generador de Markdown que permite crear contenido estructura
 
 ## Autor
 
-**Autor**: [Tu Nombre]
+**Autor**: Jose Vargas Oyarzun
 
 ## Funcionalidades
 
